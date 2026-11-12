@@ -11,3 +11,7 @@ This GitHub Pages preview hosts a landing page and a labeled **SAMPLE** PDF. It 
 A paid one-off checklist is in preparation. This preview has no purchase button and no payment link.
 
 Official sources were retrieved on 13 November 2026.
+
+## Fulfillment (preview only)
+
+The paid one-off PDF is not on sale on this preview. When it is later offered, it is a self-serve working checklist delivered to the checkout email and/or the checkout provider’s Delivery file (Creem, once a product exists), as soon as payment confirmation and the Delivery file are issued. The public SAMPLE PDF is a fictional illustration, not the deliverable. See `FULFILLMENT.md` and the “What you get” section on the landing page. No price or payment link is published here.
